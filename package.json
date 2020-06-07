@@ -1,0 +1,12 @@
+{
+   "name": "agency-company-app",
+   "version": "1.0.0",
+   "main": "index.js",
+   "repository": "https://github.com/FurkanCakici/agency-company-app.git",
+   "author": "FurkanCakici <furkancakici25@gmail.com>",
+   "license": "MIT",
+   "homepage": "",
+   "dependencies": {
+      "gh-pages": "^3.0.0"
+   }
+}
